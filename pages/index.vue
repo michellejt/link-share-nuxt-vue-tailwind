@@ -7,9 +7,15 @@
       <h1>Coding Station</h1>
       <h2>Michelle</h2>
     </div>
-    <div>
-      <CardLinks v-for="(link, idx) in links" :key="idx" :link="link" />
+    <div class="flex flex-col items-center px-4">
+      <CardLinks
+        v-for="(link, idx) in links"
+        :key="idx"
+        :link="link"
+        class="mt-6"
+      />
     </div>
+    <Share />
   </div>
 </template>
 
