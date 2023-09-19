@@ -2,7 +2,7 @@
 
 👉🏽 [Check it out here](https://link-share-mjt.netlify.app/)\
 
-[[public/screenshot.png](https://raw.githubusercontent.com/michellejt/link-share-nuxt-vue-tailwind/main/public/screenshot.png)](https://link-share-mjt.netlify.app/)
+![screenshot](https://github.com/michellejt/link-share-nuxt-vue-tailwind/assets/88480853/eff49244-1349-439c-82ea-081cbb23d1a2)
 
 ## Setup
 
