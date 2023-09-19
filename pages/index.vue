@@ -3,9 +3,9 @@
     <div class="flex justify-center items-center pt-4">
       <Avatar />
     </div>
-    <div class="text-center text-white text-lg font-medium mt-2 pb-4">
-      <h1>Coding Station</h1>
-      <h2>Michelle</h2>
+    <div class="text-center text-white mt-2 pb-4">
+      <h1 class="text-2xl font-medium">Hi, I'm Michelle</h1>
+      <p>Web designer and developer from Kaurna Country, South Australia.</p>
     </div>
     <div class="flex flex-col items-center px-4">
       <CardLinks
@@ -25,6 +25,16 @@ const links = [
     link: "https://github.com/michellejt",
     text: "Github",
     icon: "github",
+  },
+  {
+    link: "https://dribbble.com/mtongas",
+    text: "Dribbble",
+    icon: "dribbble",
+  },
+  {
+    link: "https://www.linkedin.com/in/michelle-tongerie/",
+    text: "LinkedIn",
+    icon: "linkedin",
   },
 ];
 </script>
