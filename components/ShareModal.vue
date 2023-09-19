@@ -2,7 +2,7 @@
   <div :class="modelValue ? 'visible' : 'invisible'">
     <div
       class="bg-black opacity-30 fixed top-0 left-0 w-full h-full transition-all duration-300 ease-in-out"
-      :class="!modelValue ? 'opacity-0' : 'opacity-30'"
+      :class="!modelValue ? 'opacity-0' : 'opacity-50'"
     ></div>
 
     <div
@@ -43,7 +43,7 @@
           class="cursor-pointer flex justify-between border-2 border-gray-200 p-2 mt-8 rounded items-center"
         >
           <Icon name="mdi:content-copy" />
-          <p class="mx-4">michellejt.com</p>
+          <p class="mx-4">link-share-mjt.netlify.app</p>
           <p
             class="font-medium"
             :class="`${copy === 'Copy' ? 'text-gray-800' : 'text-green-800'}`"

@@ -1,5 +1,5 @@
 <template>
-  <div class="w-screen h-screen bg-gradient-to-br from-red-400 to-sky-200">
+  <div class="w-screen h-screen bg-gradient-to-br from-cyan-300 to-purple-500">
     <div class="flex justify-center items-center pt-4">
       <Avatar />
     </div>

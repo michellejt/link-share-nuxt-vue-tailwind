@@ -2,7 +2,7 @@
   <div>
     <p
       @click="open = true"
-      class="text-center mt-4 font-bold text-blue-600 text-lg cursor-pointer"
+      class="text-center mt-4 font-bold text-white text-lg cursor-pointer"
     >
       Share
     </p>
