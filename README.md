@@ -1,7 +1,9 @@
 # Link share app built with Vue, Nuxt and Tailwindcss
 
-👉🏽 [Check it out here](https://link-share-mjt.netlify.app/)\
+## Link to deployed app:
+👉🏽 [Check it out here](https://link-share-mjt.netlify.app/)
 
+## Screenshot:
 ![screenshot](https://github.com/michellejt/link-share-nuxt-vue-tailwind/assets/88480853/eff49244-1349-439c-82ea-081cbb23d1a2)
 
 ## Setup
