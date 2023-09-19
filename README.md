@@ -1,6 +1,10 @@
-# Nuxt 3 Minimal Starter
+# Link share app built with Vue, Nuxt and Tailwindcss
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+
+👉🏽 [Check it out here](https://link-share-mjt.netlify.app/)\
+
+[[public/screenshot.png](https://raw.githubusercontent.com/michellejt/link-share-nuxt-vue-tailwind/main/public/screenshot.png)](https://link-share-mjt.netlify.app/)
 
 ## Setup
 
